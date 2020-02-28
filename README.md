@@ -6,7 +6,7 @@ PyTorch 0.4
 GPU 1080Ti
 Windows 10
 
-Run the following demo function to test the model. -TestDeepCSC
+Run the following demo function to test the model. -TestDeepCSC.py
 
 #Note -1. We provide three trained models including noise level 10, 15 and 20.  
 -2. Since the noise is random, the PSNR may be perturbed. This phenomenon is reasonable for non-convex problems.
