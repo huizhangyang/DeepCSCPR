@@ -1,5 +1,6 @@
 # DeepCSCPR
 #This package is the testing data and codes for the paper ‘DeepCSCPR: Deep convolutional sparse coding phase retrieval’.
+The DeepCSCPR network is trained and tested by PyTorch, implemented on a Windows 10 system with GTX 1080 Ti GPU.
 Requirements and Dependencies
 Python 3.7 or latter
 PyTorch 0.4
